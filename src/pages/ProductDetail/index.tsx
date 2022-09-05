@@ -19,9 +19,9 @@ const ProductDetail = () => {
         
         <Container>
             <h1>{product?.name}</h1>
-                <div className="informationContainer">
-                    <Image src={product?.images[0].asset.url} alt={product?.images[0].alt} />
-                        <div className="descriptionContainer">
+                <div>
+                    <Image src={product?.images[0].asset.url} />
+                        <div>
                             <h2>{product?.category.name}</h2>
                             <h2>{(product?.shortDescription)}</h2>
                         </div>

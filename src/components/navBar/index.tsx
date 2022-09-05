@@ -5,7 +5,7 @@ import { memo } from "react";
 const NavBar: React.FC = () => (
     <Container>
         <a href='/' title='Home'>
-            <Brand src={TBBImage} alt='Logo TBB' />
+            <Brand src={TBBImage}/>
         </a>
     </Container >
 );
