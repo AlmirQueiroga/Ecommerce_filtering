@@ -17,9 +17,10 @@ iniciais, o desenvolvimento e funcionalidades são descritas a seguir
 
 ### Utilização do JSON
 
-Ao desenvolver o projeto foi utilizado o json productsCategory disponibilizado, mas para um contexto mais realista em desenvolvimento de software
-foi criado um endpoint no mockapi que é consultado apenas para atualização do Json antes de seu tratamento, os valores serão sempre iguais mas foi 
-imaginada esta arquitetura apenas para realismo, como se fosse utilizado o Json depositado em cache para soluções como queda de internet, etc..
+Ao desenvolver o projeto foi utilizado o json productsCategory disponibilizado e o desenvolvimento, consultado e filtragem voltado inteiramente em sua 
+utilização assim como o desafio supunha, mas para um contexto mais realista em desenvolvimento de software foi criado um endpoint no mockapi que é 
+consultado apenas para atualização do Json antes de seu tratamento, os valores serão sempre iguais mas foi imaginada esta arquitetura apenas para 
+realismo, como se fosse utilizado o Json depositado em cache para soluções como queda de internet, etc..
 
 ![image](https://user-images.githubusercontent.com/28552417/188365396-9c6550d5-270b-40ef-a608-e61561ca668d.png)
 ![image](https://user-images.githubusercontent.com/28552417/188365658-692b4fe1-8700-48db-83d0-ca9775c713d4.png)
