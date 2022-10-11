@@ -1,7 +1,4 @@
-# Desafio The Brooklyn Brothers
-
-Desafio técnico da empresa The Brooklyn Brothers, consistindo no desenvolvimento de uma aplicação em React responsiva para exibir
-e filtrar lista de produtos. Pode ser visto a resultado do desenvolvimento nos prints a seguir:
+Aplicação em React responsiva para exibir e filtrar lista de produtos. Pode ser visto a resultado do desenvolvimento nos prints a seguir:
 
 ![image](https://user-images.githubusercontent.com/28552417/188363392-c5dcd9f4-e6a5-4498-913a-288a1516844f.png)
 ![image](https://user-images.githubusercontent.com/28552417/188363478-3030c0b2-5b61-411d-88ad-290ff67a2e3b.png)
